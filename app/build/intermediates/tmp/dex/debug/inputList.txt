@@ -1,0 +1,5 @@
+C:\Users\ankura\AndroidStudioProjects\ListContactsDatabase\app\build\intermediates\classes\debug
+C:\Users\ankura\AndroidStudioProjects\ListContactsDatabase\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-882f402a8cad2c01b8a6e584eb6f2444f9c9e6a7.jar
+C:\Users\ankura\AndroidStudioProjects\ListContactsDatabase\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-81d42e927d9d1c0fe221479dc1a58aca06c805bb.jar
+C:\Users\ankura\AndroidStudioProjects\ListContactsDatabase\app\build\intermediates\pre-dexed\debug\classes-cee7625daf9c818d9f09a84280ca1f9f19b853d5.jar
+C:\Users\ankura\AndroidStudioProjects\ListContactsDatabase\app\build\intermediates\pre-dexed\debug\classes-5b77f657a85e1dc68df6d59fb44560a602d6dd90.jar
