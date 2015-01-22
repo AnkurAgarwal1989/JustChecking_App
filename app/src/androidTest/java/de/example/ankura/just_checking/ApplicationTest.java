@@ -1,4 +1,4 @@
-package de.example.ankura.listcontactsdatabase;
+package de.example.ankura.just_checking;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
