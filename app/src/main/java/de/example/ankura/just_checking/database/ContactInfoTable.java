@@ -14,6 +14,8 @@ public class ContactInfoTable {
     public static final String COLUMN_ID = "_id";
     // name of contact
     public static final String CONTACT_NAME = "name";
+    // Phone Contact List ID
+    public static final String CONTACT_ID = "phoneID";
     // time last checked up on the contact
     public static final String CONTACT_TIME = "time";
     // latest known location received from contact
@@ -28,6 +30,7 @@ public class ContactInfoTable {
                     + "("
                     + COLUMN_ID + " integer primary key autoincrement, "
                     + CONTACT_NAME + " text not null, "
+                    + CONTACT_ID + " text, "
                     + CONTACT_TIME + " text, "
                     + CONTACT_LOCATION + " text, "
                     + CONTACT_VIDEO + " text);";
